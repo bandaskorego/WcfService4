@@ -1,0 +1,5 @@
+D:\RSI\C#LearningTask\WcfService4\WcfServiceClient\bin\Debug\WcfServiceClient.exe.config
+D:\RSI\C#LearningTask\WcfService4\WcfServiceClient\bin\Debug\WcfServiceClient.exe
+D:\RSI\C#LearningTask\WcfService4\WcfServiceClient\bin\Debug\WcfServiceClient.pdb
+D:\RSI\C#LearningTask\WcfService4\WcfServiceClient\obj\Debug\WcfServiceClient.exe
+D:\RSI\C#LearningTask\WcfService4\WcfServiceClient\obj\Debug\WcfServiceClient.pdb

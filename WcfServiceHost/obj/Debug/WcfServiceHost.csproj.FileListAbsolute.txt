@@ -1,0 +1,8 @@
+D:\RSI\C#LearningTask\WcfService4\WcfServiceHost\bin\Debug\WcfServiceHost.exe.config
+D:\RSI\C#LearningTask\WcfService4\WcfServiceHost\bin\Debug\WcfServiceHost.exe
+D:\RSI\C#LearningTask\WcfService4\WcfServiceHost\bin\Debug\WcfServiceHost.pdb
+D:\RSI\C#LearningTask\WcfService4\WcfServiceHost\bin\Debug\WcfServiceContract.dll
+D:\RSI\C#LearningTask\WcfService4\WcfServiceHost\bin\Debug\WcfServiceContract.pdb
+D:\RSI\C#LearningTask\WcfService4\WcfServiceHost\obj\Debug\WcfServiceHost.csprojResolveAssemblyReference.cache
+D:\RSI\C#LearningTask\WcfService4\WcfServiceHost\obj\Debug\WcfServiceHost.exe
+D:\RSI\C#LearningTask\WcfService4\WcfServiceHost\obj\Debug\WcfServiceHost.pdb
